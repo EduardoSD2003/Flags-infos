@@ -1,4 +1,3 @@
-import { Search } from "lucide-react";
 import "./App.scss";
 import { useEffect, useMemo, useState } from "react";
 
@@ -35,7 +34,6 @@ function App() {
       <section>
         <div>
           <div className="inputSearch">
-            <Search />
             <input
               type="text"
               value={searchCountry}
