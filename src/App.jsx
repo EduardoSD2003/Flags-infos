@@ -1,4 +1,4 @@
-import { Moon, Search } from "lucide-react";
+import { Search } from "lucide-react";
 import "./App.scss";
 import { useEffect, useMemo, useState } from "react";
 
